@@ -1,0 +1,18 @@
+.n_btn
+{
+    height:40px;
+    width:330px;
+    background-color: rgb(150, 210, 250);
+    border-radius: 20px;
+    font-size:25px;
+    border:rgb(white);
+    color:black;
+} 
+body{
+    
+    background: linear-gradient(to right, #360033
+,        #0b8793);
+}
+h1{
+    color:rgb(255, 255, 255);
+}
